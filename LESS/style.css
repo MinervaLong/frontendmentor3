@@ -100,3 +100,13 @@ body {
     width: 97%;
   }
 }
+/*Tablet view */
+@media (min-width: 600px) and (max-width: 1023px) {
+  .container__side {
+    margin-top: 4%;
+    margin-bottom: 4%;
+  }
+  .header__description {
+    width: 70%;
+  }
+}
